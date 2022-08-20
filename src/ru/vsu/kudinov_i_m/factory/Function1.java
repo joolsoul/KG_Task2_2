@@ -1,10 +1,4 @@
-package ru.vsu.fedosova_p_o.factory;
-
-import ru.vsu.fedosova_p_o.Parameters;
-
-import java.util.LinkedHashMap;
-;
-import java.util.Map;
+package ru.vsu.kudinov_i_m.factory;
 
 public class Function1 extends FunctionDescription{
 

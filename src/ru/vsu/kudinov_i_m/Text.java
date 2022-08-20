@@ -1,6 +1,6 @@
-package ru.vsu.fedosova_p_o;
+package ru.vsu.kudinov_i_m;
 
-import ru.vsu.fedosova_p_o.utils.DrawUtils;
+import ru.vsu.kudinov_i_m.utils.DrawUtils;
 
 import java.awt.*;
 

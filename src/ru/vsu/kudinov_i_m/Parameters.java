@@ -1,4 +1,4 @@
-package ru.vsu.fedosova_p_o;
+package ru.vsu.kudinov_i_m;
 
 import java.util.LinkedList;
 import java.util.List;

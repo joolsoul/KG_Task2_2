@@ -1,7 +1,7 @@
-package ru.vsu.fedosova_p_o.view;
+package ru.vsu.kudinov_i_m.view;
 
-import ru.vsu.fedosova_p_o.Parameterizable;
-import ru.vsu.fedosova_p_o.factory.FunctionDescription;
+import ru.vsu.kudinov_i_m.Parameterizable;
+import ru.vsu.kudinov_i_m.factory.FunctionDescription;
 
 import javax.swing.*;
 

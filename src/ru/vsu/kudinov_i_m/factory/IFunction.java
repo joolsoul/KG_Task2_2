@@ -1,4 +1,4 @@
-package ru.vsu.fedosova_p_o.factory;
+package ru.vsu.kudinov_i_m.factory;
 
 public interface IFunction {
 

@@ -1,6 +1,6 @@
-package ru.vsu.fedosova_p_o.fuction;
+package ru.vsu.kudinov_i_m.fuction;
 
-import ru.vsu.fedosova_p_o.Parameters;
+import ru.vsu.kudinov_i_m.Parameters;
 
 public abstract class Function
 {

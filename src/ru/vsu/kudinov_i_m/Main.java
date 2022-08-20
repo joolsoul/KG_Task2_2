@@ -1,6 +1,6 @@
-package ru.vsu.fedosova_p_o;
+package ru.vsu.kudinov_i_m;
 
-import ru.vsu.fedosova_p_o.view.FrameWindow;
+import ru.vsu.kudinov_i_m.view.FrameWindow;
 
 public class Main {
 

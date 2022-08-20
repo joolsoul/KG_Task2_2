@@ -1,7 +1,6 @@
-package ru.vsu.fedosova_p_o;
+package ru.vsu.kudinov_i_m;
 
-import ru.vsu.fedosova_p_o.factory.FunctionDescription;
-import ru.vsu.fedosova_p_o.fuction.Function;
+import ru.vsu.kudinov_i_m.factory.FunctionDescription;
 
 public interface Parameterizable
 {

@@ -1,6 +1,6 @@
-package ru.vsu.fedosova_p_o.factory;
+package ru.vsu.kudinov_i_m.factory;
 
-import ru.vsu.fedosova_p_o.Parameters;
+import ru.vsu.kudinov_i_m.Parameters;
 
 import java.util.LinkedHashMap;
 import java.util.List;

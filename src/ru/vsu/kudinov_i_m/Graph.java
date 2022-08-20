@@ -1,11 +1,9 @@
-package ru.vsu.fedosova_p_o;
+package ru.vsu.kudinov_i_m;
 
-import ru.vsu.fedosova_p_o.factory.FunctionDescription;
+import ru.vsu.kudinov_i_m.factory.FunctionDescription;
 
 import java.awt.*;
 import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.Map;
 
 public class Graph implements DrawingObject {
 

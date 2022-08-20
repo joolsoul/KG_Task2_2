@@ -1,10 +1,9 @@
-package ru.vsu.fedosova_p_o.view;
+package ru.vsu.kudinov_i_m.view;
 
-import ru.vsu.fedosova_p_o.*;
-import ru.vsu.fedosova_p_o.factory.Function1;
-import ru.vsu.fedosova_p_o.factory.Function2;
-import ru.vsu.fedosova_p_o.factory.FunctionDescription;
-import ru.vsu.fedosova_p_o.utils.DrawUtils;
+import ru.vsu.kudinov_i_m.*;
+import ru.vsu.kudinov_i_m.factory.Function2;
+import ru.vsu.kudinov_i_m.factory.FunctionDescription;
+import ru.vsu.kudinov_i_m.utils.DrawUtils;
 
 import javax.swing.*;
 import java.awt.*;

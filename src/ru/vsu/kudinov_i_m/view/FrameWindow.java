@@ -1,4 +1,4 @@
-package ru.vsu.fedosova_p_o.view;
+package ru.vsu.kudinov_i_m.view;
 
 import javax.swing.*;
 

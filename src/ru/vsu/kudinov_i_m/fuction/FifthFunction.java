@@ -1,4 +1,4 @@
-package ru.vsu.fedosova_p_o.fuction;
+package ru.vsu.kudinov_i_m.fuction;
 
 public class FifthFunction extends Function
 {
