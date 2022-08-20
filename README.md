@@ -15,5 +15,7 @@ ____
 - (*) x = A*y^3 + B*y^2 + C*y + D
   ____
   ![image](https://user-images.githubusercontent.com/71376506/185752849-a9ab470f-1a8b-41b0-ba47-ca88bc77edec.png)
+  ![image](https://user-images.githubusercontent.com/71376506/185752913-301362dc-df23-490c-881a-7a06e61993f2.png)
+
 
 
